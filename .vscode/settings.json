@@ -1,0 +1,3 @@
+{
+    "dart.flutterSdkPath": "/home/pirate/Desktop/fl/pratice/$(which flutter | sed 's|/bin/flutter||')"
+}
