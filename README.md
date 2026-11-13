@@ -31,7 +31,7 @@ Shop is a mobile commerce project built with Flutter. It serves as a practical a
 ### Setup
 
 ```bash
-git clone https://github.com/vijaygovindBiju/shop.git
+git clone https://github.com/JustPirate/shop.git
 cd shop
 flutter pub get
 flutter run
